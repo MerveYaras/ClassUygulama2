@@ -1,0 +1,10 @@
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\bin\Debug\ClassUygulama.exe.config
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\bin\Debug\ClassUygulama.exe
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\bin\Debug\ClassUygulama.pdb
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.csprojAssemblyReference.cache
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.Form1.resources
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.Properties.Resources.resources
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.csproj.GenerateResource.cache
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.csproj.CoreCompileInputs.cache
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.exe
+C:\Users\pence\source\repos\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.pdb
